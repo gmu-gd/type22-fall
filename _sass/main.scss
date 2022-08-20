@@ -97,8 +97,9 @@ textarea {
 $font-stack-body: sofia-pro, sans-serif;
 $font-stack-bighead: rig-solid-bold-halftone, sans-serif;
 $font-stack-headings: sofia-pro-soft, sans-serif;
-$primary-color: #1DFFA8;
-$secondary-color: #39A0ED;
+$font-stack-student: rig-solid-bold-fill, sans-serif;
+$primary-color: #ff5470;
+$secondary-color: #fde24f;
 $dark-color: #1a1a1a;
 $light-color: white;
 * {
@@ -289,13 +290,31 @@ section {
   width: 100%;
   margin: 50px 0;
 }
+.student {
+  margin: 0;
+  padding: 0;
+  font-family: $font-stack-student;
+  transition: .5s ease;
+}
+.student p {
+  text-align: center;
+  font-size: 3rem;
+  margin: 0;
+  padding: 25px 0;
+  // line-height: 3rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+.student:hover a {
+  color: $dark-color;
+}
 .student, .tutorial {
   // padding: 15px;
   border: 3px solid $dark-color;
   cursor: pointer;
 }
 .student:hover, .tutorial:hover {
-  background-color: $primary-color;
+  background-color: $secondary-color;
 }
 .student:nth-child(3n+3) {
   margin-right: 0;
@@ -303,7 +322,7 @@ section {
 .student a, .tutorial a, .tutorial p, .tutorial h5 {
   transition: color .5s ease;
 }
-.student:hover a, .tutorial:hover a, .tutorial:hover p, .tutorial:hover h5 {
+.tutorial:hover a, .tutorial:hover p, .tutorial:hover h5 {
   color: $light-color;
 }
 section.projects {
