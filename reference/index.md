@@ -4,23 +4,36 @@ title: Reference
 ---
 
 ### Websites, Useful
-* [Class Vimeo Group](https://vimeo.com/groups/784626)
-* [DC in Motion](https://dcmotion.co/)
+* [readings.design](https://readings.design/)
+* [Material Design, Understanding Typography](https://material.io/design/typography/understanding-typography.html#type-properties)
+* [Typography for Lawyers](https://typographyforlawyers.com/)
+* [Fonts in Use](https://fontsinuse.com/)
+* [Adobe Fonts](https://fonts.adobe.com/)
+* [Google Fonts](https://fonts.google.com/)
 
 ### Websites, Tutorials
-* [Adobe After Effects Tutorials](https://helpx.adobe.com/after-effects/tutorials.html)
-* [School of Motion](https://www.schoolofmotion.com/)
+* [Adobe Illustrator Tutorials](https://helpx.adobe.com/illustrator/tutorials.html)
+* [Adobe InDesign Tutorials](https://helpx.adobe.com/indesign/tutorials.html)
 
-### Articles
-* [An Interview with Karin Fong](https://create.adobe.com/2018/5/11/type_and_title_seque.html)
-* [Shira Inbar on the Power of Motion in Graphic Design](https://eyeondesign.aiga.org/shira-inbar-on-the-power-of-motion-in-graphic-design/)
+### Books
+* [_Inside Paragraphs_](http://www.insideparagraphs.com/) by Cyrus Highsmith
+* [_Thinking with Type_](https://ellenlupton.com/Thinking-with-Type) by Ellen Lupton
+* [_The Elements of Typographic Style_](https://typographica.org/typography-books/the-elements-of-typographic-style-4th-edition/) by Robert Bringhurst
+* [_A Type Primer_](http://www.atypeprimer.com/) by John Kane
 
 ### Software
-* [Adobe After Effects](https://www.adobe.com/products/xd.html)
+* [Adobe InDesign](https://www.adobe.com/products/indesign.html)
 * [Adobe Illustrator](https://www.adobe.com/products/illustrator.html)
 * [Adobe Photoshop](https://www.adobe.com/products/photoshop.html)
 
-### Visuals
-* [Pentagram Vimeo](https://vimeo.com/pentagramdesign) – [Muriel Cooper Bauhaus](https://vimeo.com/238311156)
-* [Duke and the Duck](https://vimeo.com/dukeduck)
-* [Art of the Title](https://www.artofthetitle.com/)
+### Type Designers &amp; Foundries
+* [MCKL Type](https://mckltype.com/)
+* [Grilli Type](https://www.grillitype.com/)
+* [Sharp Type](https://sharptype.co/)
+* [Klim Type Foundry](https://klim.co.nz/)
+* [Colophon Foundry](https://www.colophon-foundry.org/)
+* [Displaay](https://displaay.net/)
+* [Dalton Maag](https://www.daltonmaag.com/)
+* [Fontsmith](https://www.fontsmith.com/)
+* [Vocal Type Co](https://www.vocaltype.co/)
+* [Occupant Fonts](https://occupantfonts.com/)
