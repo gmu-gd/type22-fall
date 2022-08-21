@@ -5,8 +5,6 @@ title: Syllabus
 ### General
 This is the syllabus for the _Summer 2022_ class of _AVT 411: Motion Design (3 credits)_. The instructor is _Michael McDermott_, can be reached by email at _mmcderm8 at gmu dot edu_, and can be met with at his [virtual office hours](https://calendly.com/michaelmcdermott) on Tuesdays from 12&ndash;2 and Thursdays from 12&ndash;2. Office hours can also be scheduled outside of those times if necessary.
 
-[Download a PDF version]({{ site.baseurl }}/assets/files/AVT411-Syllabus-Summer2022.pdf)
-
 ### Delivery and Timing
 We will meet once a week in person on Tuesdays from 1:30 to 4:10 in room 1020 in the Art and Design Building. The classes are required and during our sessions we will discuss work, complete demos, and further our design knowledge. The class is scheduled to run for 15 weeks and you can expect to work for 6 hours outside of class each week.
 
@@ -106,12 +104,25 @@ New this semester! The design faculty will be hosting open studio hours in room 
 ### School of Art Social Media Accounts
 IG: gmusoa / FB: gmu.soa / TW: gmusoa
 
+### Visual Voices Lecture Series
+Visual Voices is a year-long series of lectures by artists, art historians and others about contemporary art and art practice. Visual Voices lectures are held on four Thursday evenings from 7:30 – 9:00 p.m.
+
+For Fall 2022, this lecture series will be held online. https://www.masonexhibitions.org/visual-voices-fall-2022
+
+<ul class="date-list">
+  <li><span class="date">Sept 15</span> Bahia Shehab</li>
+  <li><span class="date">Sept 29</span> Jon Henry</li>
+  <li><span class="date">Oct 20</span> Silas Munro</li>
+  <li><span class="date">Nov 3</span> Ellen Lesperance</li>
+</ul>
+
 ### Writing Center and Library Resources
-Students who are in need of intensive help with grammar, structure or mechanics in their writing should make use of the services of Writing Center [https://writingcenter.gmu.edu/](https://writingcenter.gmu.edu/) For Spring 2022, the Writing Center is holding all sessions online, with writers choosing between meeting their tutor in real time on Zoom or uploading a draft for their tutor's written feedback. Please send your questions to wcenter@gmu.edu
+Students who are in need of intensive help with grammar, structure or mechanics in their writing should make use of the services of Writing Center. For Fall 2022, the Writing Center is holding all sessions online, with writers choosing between meeting their tutor in real time on Zoom or uploading a draft for their tutor's written feedback. Please send your questions to wcenter@gmu.edu
 
 Provisions Research Center for Art & Social Change is located in Room L001 of the Art & Design Building. This student resource assists students in exploring and engaging new models for artmaking that lead to a more inclusive, equitable, and connected society. Provisions is also a hub for developing art projects through Mason Exhibitions, the Mural Brigade, and art partners throughout the metropolitan area, and beyond. Contact Don Russell for more information: drusse10@gmu.edu
 
-Art and Art History Librarian, Stephanie Grimm, will have irregular hours in Provisions Library and offer research consultations by appointment (virtual and in-person) for Summer 2022: [https://go.gmu.edu/sgrimm4](https://go.gmu.edu/sgrimm4)
+Art and Art History Librarian, Stephanie Grimm, will offer appointments and virtual office hours for the Fall  2022 semester: [https://go.gmu.edu/sgrimm4](https://go.gmu.edu/sgrimm4)
+
 
 ### Official Communications via Mason E-mail
 Students are responsible for the content of university communications sent to their George Mason University e-mail account and are required to activate their account and check it regularly. All communication from the university, college, school, and program will be sent to students solely through their Mason e-mail account.
@@ -145,7 +156,7 @@ For all vaccinated or unvaccinated students, faculty, staff, contractors, and vi
 For more information, please visit: [https://www.gmu.edu/safe-return-campus/personal-and-public-health/face-coverings](https://www.gmu.edu/safe-return-campus/personal-and-public-health/face-coverings)
 
 ### CAPS at Mason is Here for You
-Counseling & Psychological Services provides a wide range of free services to students. CAPS offers crisis, counseling, and psychiatric services virtually, and limited services in person. Services are provided by a staff of licensed clinical psychologists, licensed professional counselors, licensed social workers, doctoral-level trainees, and a board-certified psychiatrist. Our individual and group counseling, workshops, and community education programs are designed to enhance students’ personal experience and academic performance. For distance learners, please see our Resources for Distance Learning page. We also provide consultation to faculty and staff who have concerns about a student
+Counseling & Psychological Services provides a wide range of free services to students. CAPS offers crisis, counseling, and psychiatric services virtually, and limited services in person. Services are provided by a staff of licensed clinical psychologists, licensed professional counselors, licensed social workers, doctoral-level trainees, and a board-certified psychiatrist. Our individual and group counseling, workshops, and community education programs are designed to enhance students’ personal experience and academic performance. For distance learners, please see our [Resources for Distance Learning](https://caps.gmu.edu/resources-for-distance-learning/) page. We also provide consultation to faculty and staff who have concerns about a student
 
 CAPS provides short-term mental health services for enrolled students. When a student’s needs require a different level of care, CAPS works with students to transition care to community providers. If a student is currently seeing a professional in the community for therapy and can continue to work with them, we encourage the student to continue care with their current provider.
 
@@ -153,7 +164,8 @@ In order to begin services with CAPS, please call us at 703-993-2380 during our 
 
 If you are experiencing a crisis after our business hours or on weekends or holidays, please call us at 703-993-2380. Please select option 1 in our phone system to be connected to an after-hours crisis counselor.
 
-If you are interested in connecting with a provider in the community for long term counseling, please visit our Find a Community Provider page for our database of community provider options and other options for connecting with a therapist. If you have student health insurance through Aetna, you may also choose to access services through TelaDoc
+If you are interested in connecting with a provider in the community for long term counseling, please visit our [Find a Community Provider](https://caps.gmu.edu/community-provider-search/) page for our database of community provider options and other options for connecting with a therapist. If you have student health insurance through Aetna, you may also choose to access services through [TelaDoc](https://www.aetnastudenthealth.com/schools/Peace_of_Mind_ 8.5x11.pdf).
+
 
 ### Anti-Racism Statement
 The School of Art plays an integral role in building an educational environment that is committed to anti-racism and inclusive excellence. An anti-racist approach to higher education acknowledges the ways that individual, interpersonal, institutional, and structural manifestations of racism against Black, Indigenous, and other people of color contribute to inequality and injustice in our classrooms, on our campuses, and in our communities.  It strives to provide our community members with resources to interrupt cycles of racism so as to cultivate a more equitable, inclusive, and just environment for all of our students, staff, faculty, alumni, and friends, regardless of racial background. An anti-racism approach is an active and ongoing, long-term process. In all our efforts, we uphold a commitment to creating honest, respectful, supportive, and healing spaces where members of our community can meaningfully dialogue and learn from each other’s lived experiences for the betterment of our entire community.
@@ -161,24 +173,36 @@ The School of Art plays an integral role in building an educational environment 
 ### Land Acknowledgment
 At the place George Mason University occupies, we give greetings and thanksgivings to these Potomac River life sources, the Doeg ancestors, who Virginia annihilated in violent campaigns while ripping their lands apart with the brutal system of African American enslavement, to the recognized Virginia tribes who have lovingly stewarded these lands for millennia including the Rappahannock, Pamunkey, Upper Mattaponi, Chickahominy, Eastern Chickahominy, Nansemond, Monacan, Mattaponi, Patawomeck, and Nottaway, past, present, and future, and to the Piscataway tribes, who have lived on both sides of the river from time immemorial.
 
-### Technology Requirements
-Note that this course requires/strongly recommends the use of Adobe Creative Cloud applications. If you do not already have an Adobe license and are interested in purchasing one or have an Adobe license and need to renew it, please visit [https://www.adobe.com/creativecloud/buy/students.html](https://www.adobe.com/creativecloud/buy/students.html). If you cannot afford an Adobe license, you may submit a request for funding to the Student Emergency Assistance Fund. Please visit [https://ulife.gmu.edu/student-emergency-assistance-funding-2-2/](https://ulife.gmu.edu/student-emergency-assistance-funding-2-2/) to apply. Please note that the Adobe license agreement is on an annual basis.
+### Mason Gen Ed/Mason
+This course satisfies a Mason Core Integration Requirement for Synthesis and Capstone. The purpose of the synthesis course is to provide students with the opportunity to synthesize the knowledge, skills and values gained from the general education curriculum. Synthesis courses strive to expand students’ ability to master new content, think critically, and develop life-long learning skills across the disciplines. While it is not feasible to design courses that cover “all” areas of general education, synthesis courses should function as a careful alignment of disciplinary goals with a range of general education learning outcomes.
 
-The Collaborative Learning Hub Located in Johnson Center 311 (703-993-3141), the lab offers in-person one-on-one support for the Adobe Creative Suite, Microsoft Office, Blackboard, and a variety of other software. Dual monitor PCs make the lab ideal for collaborating on group projects, Macs are also available; as well as a digital recording space, collaborative tables, and a SMART Board. Reservations are strongly encouraged due to COVID-19 precautions and limited amounts of resources, but walk-ins will still be accepted so long as the occupancy of the lab does not exceed the maximum of 16 people [https://its.gmu.edu/service/club/](https://its.gmu.edu/service/club/)
+### Technology Requirements
+Note that this course requires/strongly recommends the use of Adobe Creative Cloud applications. If you do not already have an Adobe license and are interested in purchasing one or have an Adobe license and need to renew it, please visit [https://www.adobe.com/creativecloud/buy/students.html](https://www.adobe.com/creativecloud/buy/students.html). Please note that the Adobe license agreement is on an annual basis.
+
+The Collaborative Learning Hub Located in Johnson Center 311 (703-993-3141), the lab offers in-person one-on-one support for the Adobe Creative Suite, Microsoft Office, Blackboard, and a variety of other software. Dual monitor PCs make the lab ideal for collaborating on group projects, Macs are also available; as well as a digital recording space, collaborative tables, and a SMART Board. Reservations are strongly encouraged due to COVID-19 precautions and limited amounts of resources, but walk-ins will still be accepted so long as the occupancy of the lab does not exceed the maximum of 16 people [https://its.gmu.edu/service/club/](https://its.gmu.edu/service/club/).
+
 
 ### Important Deadlines
 <ul class="date-list">
-  <li><span class="date">June 7:</span> First Day of Summer Classes</li>
-  <li><span class="date">June 9:</span> Last Day to Add/Drop w/no tuition liability</li>
-  <li><span class="date">June 15:</span> Final Drop Deadline: Last Day for 50% Tuition Refund</li>
-  <li><span class="date">June 20:</span> Juneteenth: University Closed</li>
-  <li><span class="date">June 16&ndash;23:</span> Unrestricted Withdrawal</li>
-  <li><span class="date">June 24&ndash;July 12:</span> Selective Withdrawal</li>
-  <li><span class="date">July 4:</span> Independence Day: University Closed</li>
-  <li><span class="date">July 27:</span> Last Day of Classes</li>
-  <li><span class="date">July 28&ndash;30:</span> Final Exam Period</li>
+  <li><span class="date">Aug 22:</span> First Day of Fall Classes</li>
+  <li><span class="date">Aug 22:</span> Last Day to Submit Domicile Reclassification Application</li>
+  <li><span class="date">Aug 29:</span> Last Day to Add: All Individual Sections Forms Due</li>
+  <li><span class="date">Sept 5:</span> Labor Day: University Closed</li>
+  <li><span class="date">Sept 6:</span> Last Day to Drop: With 100% Tuition Refund</li>
+  <li><span class="date">Sept 13:</span> Final Drop Deadline: Last Day for 50% Tuition Refund</li>
+  <li><span class="date">Sept 14&ndash;27:</span> Unrestricted Withdrawal Period: 100% Tuition Liability</li>
+  <li><span class="date">Oct 10:</span> Fall Break (classes do not meet)</li>
+  <li><span class="date">Oct 11:</span> Monday Classes/Labs Meet (Tues. Classes Do Not Meet This Week)</li>
+  <li><span class="date">Sept 19&ndash;Oct 14:</span> Mid-term Evaluation Period</li>
+  <li><span class="date">Sept 28&ndash;Oct 24:</span> Selective Withdrawal Period (Undergraduate students only)</li>
+  <li><span class="date">Oct 21:</span> Incomplete Work from Spring/Summer 2022 Due to Instructor</li>
+  <li><span class="date">Nov 23&ndash;27:</span> Thanksgiving Recess - No Classes (University Closed Nov. 23-27)</li>
+  <li><span class="date">Dec 2:</span> Dissertation/Thesis Deadline</li>
+  <li><span class="date">Dec 3:</span> Last Day of Class</li>
+  <li><span class="date">Dec 5&ndash;6:</span> Reading Day(s)</li>
+  <li><span class="date">Dec 7&ndash;14:</span> Examination Period</li>
+  <li><span class="date">Dec 15:</span> Winter Graduation</li>
+  <li><span class="date">Dec 17:</span> Degree Conferral Date</li>
 </ul>
-
-[https://registrar.gmu.edu/calendars/summer_2022/](https://registrar.gmu.edu/calendars/summer_2022/)
 
 Once the add and drop deadlines have passed, instructors do not have the authority to approve requests from students to add or drop/withdraw late. Requests for late adds (up until the last day of classes) must be made by the student in the School of Art office (or the office of the department offering the course), and generally are only approved in the case of a documented university error (such as a problem with financial aid being processed), LATE ADD fee will apply. Requests for non-selective withdrawals and retroactive adds (adds after the last day of classes) must be approved by the academic dean of the college in which the student’s major is located. For AVT majors, that is the CVPA Office of Academic Affairs in College Hall.
