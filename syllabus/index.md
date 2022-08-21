@@ -8,45 +8,52 @@ This is the syllabus for the _Summer 2022_ class of _AVT 411: Motion Design (3 c
 [Download a PDF version]({{ site.baseurl }}/assets/files/AVT411-Syllabus-Summer2022.pdf)
 
 ### Delivery and Timing
-We will meet online twice a week on Mondays and Wednesdays from 4:30 to 7:10 on Zoom. The classes are required and during our sessions we will discuss work, complete workshops, and further our design knowledge. The class is scheduled to run for 8 weeks plus a final critique day and you can expect to work for 12 hours outside of class each week.
+We will meet once a week in person on Tuesdays from 1:30 to 4:10 in room 1020 in the Art and Design Building. The classes are required and during our sessions we will discuss work, complete demos, and further our design knowledge. The class is scheduled to run for 15 weeks and you can expect to work for 6 hours outside of class each week.
 
 ### Prerequisites
-AVT 217: Intro to Web Design and AVT 311: Graphic Design Principles and Methods
+AVT 110: Digital Design Studio
 
 ### Course Description
-Motion Design introduces the theories, techniques and practices of motion design and the integration of design, image, sound, video, and animation.
+Introduction to the history and use of type. Projects and exercises develop awareness of type as a linguistic and visual communication tool. Introduces typographic design elements, including color, hierarchy, integration with imagery, structure, and content.
 
 ### Overview
-This is not a software training course. Although there will be occasional in-class software demos a majority of the software skills will need to be self taught. Through the exercises, in-class workshops, projects, and critiques the students will learn the fundamental principles of time-based design grounded in traditional design principles.
-
-Participants should finish the course with a working knowledge of motion design principles and methods as well as a better understanding of the production side of the medium.
+Type is everywhere. The only way to avoid it is to close your eyes and even then you still might see it. During this class we will start by looking at the form and structure of letters and then combine those letters to make words, sentences and paragraphs. We will make type by hand, print type digitally, and set type to be viewed on screen. We will learn that the style, weight, size, and color of the type we choose can say just as much as the words we write with it. We will also have various exercises and demos during class to improve your skills and knowledge of the tools available to you. Finally we will talk about the anatomy of type, the history of type, and the type designers who create the type. By the end of the class you will have a strong basis in the fundamentals of typography to use in your evolving design practice.
 
 ### Objectives
-* To improve general design skills
-* To have an understanding of storyboarding
-* To understand the technical aspects of motion design
-* To analyze how motion can enhance a narrative
-* To understand how static design principles apply to a motion-based medium
+* Understand the anatomy and evolution of the roman letterform
+* Learn the terms and principles of working with type as a designer
+* Develop essential craft, critique and presentation skills
+* Learn and apply basic layout skills in InDesign
+* Understand and explore the use of grid systems
 
-### Textbook
-There is no textbook for this course.
+### Recommended Books
+* Inside Paragraphs by _Cyrus Highsmith_
+* Thinking with Type by _Ellen Lupton_
+* The Elements of Typographic Style by _Robert Bringhurst_
+* A Type Primer by _John Kane_
+
+### Required Materials
+* Glue Sticks
+* Scissors
+* Knife & Cutting Mat
+* Straight Edge / Metal Ruler
+* Bone Folder
+* Scissors
 
 ### Programs
-
-#### design
-You must have After Effects to participate in this course. We will also use Photoshop and Illustrator to produce assets and other files throughout the semester. See Technology Requirements for more information.
-
-#### other
-Zoom (for class), Chrome, Safari, Firefox, or some other internet browser (accessing class website and uploading videos), and a Vimeo account.
+We will be using the Adobe Creative Suite in this class, primarily InDesign and Illustrator but will also use some Photoshop. An internet browser will also be necessary as we will submit work through Blackboard and document process on Miro. See the Technology Requirements section for more information.
 
 ### Content
-This course consists of many shorter exercises, a few longer projects, quizzes, and in class discussions. The exercises are to begin to familiarize students with specific concepts and ideas and the projects are a synthesis of the concepts and ideas we will cover. Quizzes will review information from the lessons and discussions will be used for critiques and analysis of relevant topics.
+This class consists of  shorter exercises, in-class demos and workshops, and longer projects. The exercises, demos, and workshops are meant to build skills and learn new concepts and the projects are a place to demonstrate your understanding and ability to combine those skills and concepts.
 
-#### project 1: obstructions
-Obstructions in design can seem like a burden but being able to use them as a creative starting point is key. You will create a short video and then create the same video three more times. Each new video will be created using a series of obstructions chosen in class. [More information here]({{ site.baseurl }}/projects).
+#### project 1: paper letters
+You will work on making letters from black and white paper focusing on expressive and unique letters, not replicating letters that already exist. You will start by making one letter and then use that letter to create more letters making sure the letters belong next to each other. You will then digitize the letters and further refine them. The goal of this project is to begin to closely examine letterforms and start to notice different aspects of typefaces.
 
-#### project 2: something in motion
-Project two will give you the option of coming up with your own project or choosing from one of the projects I have listed. The project will be a culmination of the skills and concepts you have learned throughout this course. [More information here]({{ site.baseurl }}/projects).
+#### project 2: type specimen
+Design a single page type specimen for a given typeface. The project will entail a small amount of research to find some specific information about the typeface. That information will be used to inform the design and the final designs will be two colors and printed with a Risograph. You will then get to collect prints from everyone and bind them into a book to keep. The project will focus on principles of typography as well as hierarchy, grids, and craft.
+
+#### project 3: various
+You will have the choice between three different projects—designing a poster, a booklet, or an album. Each project will have unique constraints and guidelines and will be a culmination of the skills and concepts you have learned throughout this course.
 
 ### Engagement
 This course has an engagement policy instead of an attendance policy. Your engagement will affect your final grade (and, by extension, the quality of your work) for this course. You are expected to actively and passionately take part in this course in the following ways.
@@ -60,37 +67,41 @@ This course has an engagement policy instead of an attendance policy. Your engag
 * Care about yourself & your work, your classmates & their work, and this class.
 
 ### Grading
-Grades will be based on engagement (25%), exercises (25%), and projects (50%).
+Grades will be based on quizzes (10%), engagement (25%), exercises (25%), and projects (40%).
+
+#### quizzes (10%)
+There will be short, weekly quizzes to assess your knowledge of typographic terms, concepts, and history that will account for 10% of your grade.
 
 #### engagement (25%)
-This percentage will be based on your engagement in the class which is explained on previous page but will include attendance, discussion and readings, critiques, and overall participation. Be engaged in this course and its content throughout the semester and this should be an easy 25%.
+This percentage will be based on your engagement in the class which is explained on above. Be engaged in this course and its content throughout the semester and this should be an easy 25%.
 
 #### exercises (25%)
-The exercises are graded using a basic rubric show in the PDF version of the syllabus. The rubric includes your ability to follow the instructions of the exercise and your ability to submit it on time. The exercises are meant to be quicker, skill building tasks that improve your projects and design knowledge.
+The exercises are meant to be quicker, skill building tasks that improve your projects and design knowledge. They are graded using a basic rubric show on the last page.
 
-#### projects  (50%)
-Each project will generate two different grades. One grade will be based on your ability to submit the required, weekly checkpoints for the project. These weekly checkpoints use a simple rubric based on your effort, timeliness, improvement, and completion. The second grade will be based on the final project you submit and has a more extensive rubric. At the end of the semester you will have 6 total project grades that are all weighted equally for this 50%. The rubrics used for grading the checkpoints and projects are in the PDF syllabus.
+#### projects (40%)
+Each project will generate two different grades. One grade will be based on your week to week process and the second grade will be based on the final submission. At the end of the semester you will have 6 total project grades that are all weighted equally for this 40%.
 
-#### rubrics
-Rubrics are used to grade exercises, projects, and checkpoints. The rubrics are available in the PDF syllabus.
+### Rubrics
+Rubrics are used to grade exercises, projects, and checkpoints. The rubrics are in the PDF syllabus and tied to each submission on Blackboard. The rubrics are here to allow you to understand how work is graded and to reference while working to self-evaluate.
 
 ### Communication
-Your ability to communicate with me is of prime importance in this course. If you are going to be absent, late, or not have your work, it will be your best interest in  communicating those things to me in advance. I do not need to know your reasons for being absent, late, or not having your work but I do need to know. A simple, short email will be fine.
+Your ability to communicate with me is of prime importance in this course. If you are going to be absent, late, or not have your work, it will be your best interest in communicating those things to me in advance. I do not need to know your reasons for being absent, late, or not having your work but I do need to know. A simple, short email will be fine.
 
 The same goes for if you are struggling in this class or having other issues that are hindering your ability to complete work in this class. The more you keep me in the loop the more I can help you and adjust as needed.
 
 ### Weekly Schedule
-Class is on Mondays and Wednesdays from 4:30–7:10. Most days we will meet for the entire time but some weeks we will have individual meetings or end early. Unless otherwise specified, all work is due at the beginning of class.
+Class is on Tuesdays from 1:30&ndash;4:10. Most days we will meet for the entire time but some weeks we will have individual meetings or end early. Unless otherwise specified, all work is due at the beginning of class.
 
-A note&mdash;Time management is an important skill to master and should be worked on all your classes. Staying up all night working is not a badge of honor, it typically means you didn't budget your time correctly. Staying up all night isn't healthy and, especially now, making sure you are keeping yourself healthy is your first priority.
-
-A second note&mdash;Rendering doesn't happen in five minutes (most of the time). In order to be prepared for class you will most likely need to render things prior to showing up in class. After Effects allows work to be previewed but can be laggy and difficult in certain situations. All work we are reviewing should be rendered as a video file outside of After Effects.
+A note&mdash;Time management is an important skill to master and should be worked on all your classes. Staying up all night working is not a badge of honor, it typically means you didn’t budget your time correctly. Staying up all night isn’t healthy and making sure you are keeping yourself healthy is your first priority.
 
 ### Semester Schedule
-The [schedule]({{ site.baseurl }}/schedule/) on this site is an outline of what we will be covering this spring. It is subject to additions and subtractions.
+The [schedule]({{ site.baseurl }}/schedule/) on this site is an outline of what we will be covering this fall. It is subject to additions and subtractions.
 
 ### Discussion of Work
 You will need to take an active role in both the presentation and discussion of your work. We will review projects in a variety of ways and you are expected to be able to talk and write about your own work and give feedback to your peers about their work. The ability to discuss your work and other student’s work is a very important part of your education at Mason. Use this class to improve on those skills.
+
+### Open Studio
+New this semester! The design faculty will be hosting open studio hours in room 1023. When the open studio is open, you will have access to computers, a space to work, or get feedback and help from the faculty member in the room. The schedule will be posted on the door of 1023.
 
 ### School of Art Social Media Accounts
 IG: gmusoa / FB: gmu.soa / TW: gmusoa
