@@ -9,11 +9,11 @@ This schedule is a rough outline for class each week. It is very subject to chan
 ### August 23 &mdash; Week 1
 #### Outline for the Day
 * Intros
-* E0: name.png
+* [E0: name.png]({{ site.baseurl }}/projects/#e0/)
 * Overviews (slides)
 * Syllabus
 * Letterforms (slides)
-* P1: Paper Letters
+* [P1: Paper Letters]({{ site.baseurl }}/projects/p1/)
 
 #### Due Next Class
 * P1.1: All 24 paper e's

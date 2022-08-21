@@ -100,6 +100,7 @@ $font-stack-headings: sofia-pro-soft, sans-serif;
 $font-stack-student: rig-solid-bold-fill, sans-serif;
 $primary-color: #ff5470;
 $secondary-color: #fde24f;
+$tertiary-color: #47A8BD;
 $dark-color: #1a1a1a;
 $light-color: white;
 * {
@@ -489,7 +490,7 @@ h5 {
   padding: 3px 3px;
 }
 .due {
-  color: $secondary-color;
+  color: $tertiary-color;
   font-size: 1rem;
   font-weight: bold;
   text-transform: uppercase;
@@ -503,7 +504,7 @@ ul.date-list {
   list-style-type: none;
 }
 .date {
-  color: $secondary-color;
+  color: $tertiary-color;
 }
 .spoiler {
   color: white;
