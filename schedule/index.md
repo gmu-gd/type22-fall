@@ -15,6 +15,9 @@ This schedule is a rough outline for class each week. It is very subject to chan
 * Letterforms (slides)
 * [P1: Paper Letters]({{ site.baseurl }}/projects/p1/)
 
+#### Resources
+* Adobe: [Picking the right font: Serif vs. sans serif.](https://www.adobe.com/creativecloud/design/discover/serif-vs-sans-serif.html)
+
 #### Due Next Class
 * P1.1: All 24 paper e's
 
@@ -26,7 +29,7 @@ This schedule is a rough outline for class each week. It is very subject to chan
 * Introduce Miro
 * Anatomy of Letters (Slides)
 * Cutting (Demo)
-* Serif Versus Sans (Slides)
+* Type Classification (Slides)
 * Matching Game
 * Type Styles (Slides)
 
