@@ -41,11 +41,12 @@ This schedule is a rough outline for class each week. It is very subject to chan
 ### September 6 &mdash; Week 3
 #### Outline for the Day
 * P1: Critique of Names
-* Printing at Mason (Demo)
+* Printing with Crop Marks (Demo)
 * Words I (Slides)
 * Vector Drawing (Demo)
 * Words II (Slides)
-* E1: Letter Cropping
+<!-- * E1: Letter Cropping -->
+* [E1: Letter Cropping]({{ site.baseurl }}/projects/#e1/)
 
 #### Due Next Class
 * E1: Letter Cropping
@@ -55,6 +56,7 @@ This schedule is a rough outline for class each week. It is very subject to chan
 
 ### September 13 &mdash; Week 4
 #### Outline for the Day
+* Printing at Mason (Demo)
 * Sentences (Slides)
 * Physical Grids (Demo)
 * Hierarchy (Slides)
