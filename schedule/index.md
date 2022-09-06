@@ -42,9 +42,9 @@ This schedule is a rough outline for class each week. It is very subject to chan
 #### Outline for the Day
 * P1: Critique of Names
 * Printing with Crop Marks (Demo)
-* Words I (Slides)
+* Words (Slides)
 * Vector Drawing (Demo)
-* Words II (Slides)
+* Choosing a Typeface (Slides)
 <!-- * E1: Letter Cropping -->
 * [E1: Letter Cropping]({{ site.baseurl }}/projects/#e1/)
 
