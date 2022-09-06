@@ -48,6 +48,9 @@ This schedule is a rough outline for class each week. It is very subject to chan
 <!-- * E1: Letter Cropping -->
 * [E1: Letter Cropping]({{ site.baseurl }}/projects/#e1/)
 
+#### Resources
+* Typetogether: [How to Choose the Right Typeface.](https://www.type-together.com/how-to-choose-the-right-typeface)
+
 #### Due Next Class
 * E1: Letter Cropping
 * P1 Final: Vector name
