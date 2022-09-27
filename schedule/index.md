@@ -64,7 +64,9 @@ This schedule is a rough outline for class each week. It is very subject to chan
 * Physical Grids (Demo)
 * Hierarchy (Slides)
 * E2: Physical Grids
+* [E2: Physical Grids]({{ site.baseurl }}/projects/#e2/)
 * E3: Translations
+* [E3: Translations]({{ site.baseurl }}/projects/#e3/)
 * P1: Final Critique
 * P2: Type Specimen
 
@@ -82,6 +84,7 @@ This schedule is a rough outline for class each week. It is very subject to chan
 * Digital Grids (Demo)
 * Spot the Difference
 * E4: Found Letter Composition
+* [E4: Found Letter Composition]({{ site.baseurl }}/projects/#e4/)
 
 #### Due Next Class
 * E4: Found Letter Composition
@@ -95,6 +98,7 @@ This schedule is a rough outline for class each week. It is very subject to chan
 * Separations (Demo)
 * Paragraphs II (Slides)
 * E5: In the News
+* [E5: In the News]({{ site.baseurl }}/projects/#e5/)
 
 #### Due Next Class
 * E5: In the News
