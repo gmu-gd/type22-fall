@@ -94,12 +94,10 @@ This schedule is a rough outline for class each week. It is very subject to chan
 * P2: Critique
 * Separations (Demo)
 * Paragraphs II (Slides)
-* E5: Manipulations
-* E6: In the News
+* E5: In the News
 
 #### Due Next Class
-* E5: Manipulations
-* E6: In the News
+* E5: In the News
 * P2 Final: Printed full color and separations
 
 ---
@@ -108,10 +106,12 @@ This schedule is a rough outline for class each week. It is very subject to chan
 #### Outline for the Day
 * P2: Critique
 * Riso Printing (Workshop)
+* E6: Manipulations
 * E7: Recipe
 * P3: Various
 
 #### Due Next Class
+* E6: Manipulations
 * E7: Recipe
 * P3.1: Choose project
 
