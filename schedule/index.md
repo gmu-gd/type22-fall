@@ -110,8 +110,10 @@ This schedule is a rough outline for class each week. It is very subject to chan
 #### Outline for the Day
 * P2: Critique
 * Riso Printing (Workshop)
-* E6: Manipulations
-* E7: Recipe
+* [E6: Manipulations]({{ site.baseurl }}/projects#e6)
+<!-- * E6: Manipulations -->
+* [E7: Recipe]({{ site.baseurl }}/projects#e7)
+<!-- * E7: Recipe -->
 * P3: Various
 
 #### Due Next Class
