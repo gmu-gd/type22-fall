@@ -30,7 +30,7 @@ function nav() {
 }
 function smoothScroll() {
   $(window).on("load", function(){
-    $('[href*="#poster"], [href*="#kinetic"], [href*="#title"]').click(function() {
+    $('[href*="#poster"], [href*="#guide"], [href*="#album"]').click(function() {
       if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
         var target = $(this.hash);
         target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
