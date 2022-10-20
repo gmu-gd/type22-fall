@@ -131,9 +131,12 @@ This schedule is a rough outline for class each week. It is very subject to chan
 
 ### October 18 &mdash; Week 9
 #### Outline for the Day
-* Type History (Slides)
-* Letterpress (Workshop)
-* E8: Type Sampler
+<!-- * Type History (Slides) -->
+<!-- * Letterpress (Workshop) -->
+* Midterm Kahoot Review
+* InDesign Booklet Demo
+<!-- * E8: Type Sampler -->
+* [E8: Type Sampler]({{ site.baseurl }}/projects#e8)
 
 #### Due Next Class
 * E8: Type Sampler
