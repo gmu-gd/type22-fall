@@ -146,12 +146,12 @@ This schedule is a rough outline for class each week. It is very subject to chan
 
 ### October 25 &mdash; Week 10
 #### Outline for the Day
-* P3: Critique
-* Web Type (Slides)
-* E9: Type on the Web
+* Work day
+<!-- * Web Type (Slides) -->
+<!-- * E9: Type on the Web -->
 
 #### Due Next Class
-* E9: Type on the Web
+<!-- * E9: Type on the Web -->
 * P3.3: Various, check project page or Blackboard
 
 ---
