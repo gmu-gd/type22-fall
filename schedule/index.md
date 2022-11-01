@@ -16,7 +16,7 @@ This schedule is a rough outline for class each week. It is very subject to chan
 * [P1: Paper Letters]({{ site.baseurl }}/projects/p1/)
 
 #### Resources
-* Adobe: [Picking the right font: Serif vs. sans serif.](https://www.adobe.com/creativecloud/design/discover/serif-vs-sans-serif.html)
+* Adobe: [Picking the right font: serif vs. sans serif.](https://www.adobe.com/creativecloud/design/discover/serif-vs-sans-serif.html)
 
 #### Due Next Class
 * P1.1: All 24 paper e's
@@ -24,7 +24,7 @@ This schedule is a rough outline for class each week. It is very subject to chan
 ---
 
 ### August 30 &mdash; Week 2
-#### Outline for the Day
+#### Outline for the Das
 * Share P1
 * Introduce Miro
 * Anatomy of Letters (Slides)
@@ -159,10 +159,11 @@ This schedule is a rough outline for class each week. It is very subject to chan
 ### November 1 &mdash; Week 11
 #### Outline for the Day
 * P3: Critique
-* E10: Social Type
+<!-- * E9: Social Type -->
+* [E9: Social Type]({{ site.baseurl }}/projects#e9)
 
 #### Due Next Class
-* E10: Social Type
+* E9: Social Type
 * P3.4: Various, check project page or Blackboard
 
 ---
