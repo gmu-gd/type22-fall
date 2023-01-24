@@ -3,7 +3,7 @@ layout: interior
 title: Syllabus
 ---
 ### General
-This is the syllabus for the _Spring 2023_ class of _AVT 417: Package Design (3 credits)_. The instructor is _Michael McDermott_, can be reached by email at _mmcderm8 at gmu dot edu_, and can be met with at his office hours on Thursdays from 2&ndash;4 in the Open Studio. Office hours can also be scheduled outside of those times if necessary.
+This is the syllabus for the _Fall 2022_ class of _AVT 215: Typography (3 credits)_. The instructor is _Michael McDermott_, can be reached by email at _mmcderm8 at gmu dot edu_, and can be met with at his [virtual office hours](https://calendly.com/michaelmcdermott) on Tuesdays from 12&ndash;2 and Thursdays from 12&ndash;2. Office hours can also be scheduled outside of those times if necessary.
 
 ### Delivery and Timing
 We will meet in person once a week on Tuesdays from 1:30 to 4:10 in AB 1023 with occasional meetings at The MIX, Horizon Hall 1408. The classes are required and during our sessions we will discuss work, complete workshops, and further our design knowledge. The class is scheduled to run for 15 weeks and you can expect to work for 6 hours outside of class each week.
