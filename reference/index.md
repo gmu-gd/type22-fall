@@ -2,6 +2,8 @@
 layout: interior
 title: Reference
 ---
+### Videos
+* [Tips to Choose and Layout Fonts](https://www.youtube.com/watch?v=zvtCy3Ovn3c)
 
 ### Websites, Useful
 * [readings.design](https://readings.design/)

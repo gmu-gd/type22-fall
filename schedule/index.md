@@ -3,147 +3,199 @@ layout: interior
 title: Schedule
 ---
 
+
 This schedule is a rough outline for class each week. It is very subject to change but will reflect the most current schedule.
 
-### January 24 &mdash; Week 1
+### August 23 &mdash; Week 1
 #### Outline for the Day
-* Course review
-* Packaging chat
-* Demo: Craft
-* [E1: Question Cube ]({{ site.baseurl }}/projects#e1)
+* Intros
+* [E0: name.png]({{ site.baseurl }}/projects#e0)
+* Overviews (slides)
+* Syllabus
+* Letterforms (slides)
+* [P1: Paper Letters]({{ site.baseurl }}/projects/p1/)
+
+#### Resources
+* Adobe: [Picking the right font: serif vs. sans serif.](https://www.adobe.com/creativecloud/design/discover/serif-vs-sans-serif.html)
 
 #### Due Next Class
-* E1: Question Cube
+* P1.1: All 24 paper e's
 
 ---
 
-### January 31 &mdash; Week 2
-#### Outline for the Day
-* The MIX orientation
-* Demo: Dielines
-* Demo: Laser Cutter
-* E2: MYOD
+### August 30 &mdash; Week 2
+#### Outline for the Das
+* Share P1
+* Introduce Miro
+* Anatomy of Letters (Slides)
+* Cutting (Demo)
+* Type Classification (Slides)
+* Matching Game
+* Type Styles (Slides)
 
 #### Due Next Class
-* E2: MYOD
+* P1.2: Paper name
 
 ---
 
-### February 7 &mdash; Week 3
+### September 6 &mdash; Week 3
 #### Outline for the Day
-* E3: Package For?
-* Demo: Tinkercad
-* E4: Pair of Plants (Part I)
-* P1: Starter Pack
+* P1: Critique of Names
+* Printing with Crop Marks (Demo)
+* Words (Slides)
+* Vector Drawing (Demo)
+* Choosing a Typeface (Slides)
+<!-- * E1: Letter Cropping -->
+* [E1: Letter Cropping]({{ site.baseurl }}/projects#e1)
+
+#### Resources
+* Typetogether: [How to Choose the Right Typeface.](https://www.type-together.com/how-to-choose-the-right-typeface)
 
 #### Due Next Class
-* E3: Package For?
-* P1.1: Checkpoint 1
+* E1: Letter Cropping
+* P1 Final: Vector name
 
 ---
 
-### February 14 &mdash; Week 4
+### September 13 &mdash; Week 4
 #### Outline for the Day
-* E4: Pair of Plants (Part II)
-* P1.1: Individual check ins
+* Printing at Mason (Demo)
+* Sentences (Slides)
+* Physical Grids (Demo)
+* Hierarchy (Slides)
+<!-- * E2: Physical Grids -->
+* [E2: Physical Grids]({{ site.baseurl }}/projects#e2)
+<!-- * E3: Translations -->
+* [E3: Translations]({{ site.baseurl }}/projects#e3)
+* P1: Final Critique
+* P2: Type Specimen
 
 #### Due Next Class
-* E4: Pair of Plants
-* P1.2: Checkpoint 2
+* E2: Physical Grids
+* E3: Translations
+* P2.1: First draft of spread
 
 ---
 
-### February 21 &mdash; Week 5
+### September 20 &mdash; Week 5
 #### Outline for the Day
-* P1.2: Small group check ins
+* P2: Critique
+* Paragraphs I (Slides)
+* Digital Grids (Demo)
+* Spot the Difference
+<!-- * E4: Found Letter Composition -->
+* [E4: Found Letter Composition]({{ site.baseurl }}/projects#e4)
 
 #### Due Next Class
-* P1.3: Checkpoint 3
+* E4: Found Letter Composition
+* P2.2: Refined spread and first draft of title page
 
 ---
 
-### February 28 &mdash; Week 6
+### September 27 &mdash; Week 6
 #### Outline for the Day
-* P1.3: Small group critiques
+* P2: Critique
+* Separations (Demo)
+* Paragraphs II (Slides)
+<!-- * E5: In the News -->
+* [E5: In the News]({{ site.baseurl }}/projects#e5)
 
 #### Due Next Class
-* P1.4: Checkpoint 4
+* E5: In the News
+* P2 Final: Printed full color and separations
 
 ---
 
-### March 7 &mdash; Week 7
+### October 4 &mdash; Week 7
 #### Outline for the Day
-* P1.4: Individual check ins
-P2: Form + Function
+* P2: Critique
+* Riso Printing (Workshop)
+* [E6: Manipulations]({{ site.baseurl }}/projects#e6)
+<!-- * E6: Manipulations -->
+* [E7: Recipe]({{ site.baseurl }}/projects#e7)
+<!-- * E7: Recipe -->
+* P3: Various
 
 #### Due Next Class
-* P1 Final
-* P2.1: Checkpoint 1
+* E6: Manipulations
+* E7: Recipe
+* P3.1: Choose project
 
 ---
 
-### March 14 &mdash; Week 8
+### October 11 &mdash; Week 8
 #### Outline for the Day
-* No Class, Spring Break
+* No Class
 
 ---
 
-### March 21 &mdash; Week 9
+### October 18 &mdash; Week 9
 #### Outline for the Day
-* P1 Final: Final critiques
-* P2.1: Quick individual check ins
+<!-- * Type History (Slides) -->
+<!-- * Letterpress (Workshop) -->
+* Midterm Kahoot Review
+* InDesign Booklet Demo
+<!-- * E8: Type Sampler -->
+* [E8: Type Sampler]({{ site.baseurl }}/projects#e8)
 
 #### Due Next Class
-* P2.2: Checkpoint 2
+* E8: Type Sampler
+* P3.2: Various, check project page or Blackboard
 
 ---
 
-### March 28 &mdash; Week 10
+### October 25 &mdash; Week 10
 #### Outline for the Day
-* P2.2: Pitch meetings
+* Work day
+<!-- * Web Type (Slides) -->
+<!-- * E9: Type on the Web -->
 
 #### Due Next Class
-* P2.3: Checkpoint 3
+<!-- * E9: Type on the Web -->
+* P3.3: Various, check project page or Blackboard
 
 ---
 
-### April 4 &mdash; Week 11
+### November 1 &mdash; Week 11
 #### Outline for the Day
-* P2.3: Individual critiques
+* P3: Critique
+<!-- * E9: Social Type -->
+* [E9: Social Type]({{ site.baseurl }}/projects#e9)
 
 #### Due Next Class
-* P2.4: Checkpoint 4
+* E9: Social Type
+* P3.4: Various, check project page or Blackboard
 
 ---
 
-### April 11 &mdash; Week 12
+### November 8 &mdash; Week 12
 #### Outline for the Day
-* P2.4: Group check ins
+* Individual Meetings
 
 #### Due Next Class
-* P2.5: Checkpoint 5
+* P3.5: Various, check project page or Blackboard
 
 ---
 
-### April 18 &mdash; Week 13
-* P2.5: Individual check ins
+### November 15 &mdash; Week 13
+* P3: Critique
+* Bookbinding (Workshop)
 
 #### Due Next Class
-* P2.6: Checkpoint 6
+* P3.6 Various, check project page or Blackboard
 
 ---
 
-### April 25 &mdash; Week 14
+### November 22 &mdash; Week 14
 #### Outline for the Day
-* P2.6: Group critiques
+* P3: Critique
+* Zines (Workshop)
 
 #### Due Next Class
-* P2 Final
+* P3 Final: Various, check project page or Blackboard
 
 ---
 
-### May 2 &mdash; Week 15
+### November 29 &mdash; Week 15
 #### Outline for the Day
-* Course evaluations
-* P2: Final critiques
-* Work documentation
+* Final Critiques
