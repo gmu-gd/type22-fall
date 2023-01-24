@@ -3,7 +3,7 @@ layout: interior
 title: Syllabus
 ---
 ### General
-This is the syllabus for the _Summer 2022_ class of _AVT 411: Motion Design (3 credits)_. The instructor is _Michael McDermott_, can be reached by email at _mmcderm8 at gmu dot edu_, and can be met with at his [virtual office hours](https://calendly.com/michaelmcdermott) on Tuesdays from 12&ndash;2 and Thursdays from 12&ndash;2. Office hours can also be scheduled outside of those times if necessary.
+This is the syllabus for the _Fall 2022_ class of _AVT 215: Typography (3 credits)_. The instructor is _Michael McDermott_, can be reached by email at _mmcderm8 at gmu dot edu_, and can be met with at his [virtual office hours](https://calendly.com/michaelmcdermott) on Tuesdays from 12&ndash;2 and Thursdays from 12&ndash;2. Office hours can also be scheduled outside of those times if necessary.
 
 ### Delivery and Timing
 We will meet once a week in person on Tuesdays from 1:30 to 4:10 in room 1020 in the Art and Design Building. The classes are required and during our sessions we will discuss work, complete demos, and further our design knowledge. The class is scheduled to run for 15 weeks and you can expect to work for 6 hours outside of class each week.
