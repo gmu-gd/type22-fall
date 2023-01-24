@@ -98,10 +98,10 @@ $font-stack-body: sofia-pro, sans-serif;
 $font-stack-bighead: rig-solid-bold-halftone, sans-serif;
 $font-stack-headings: sofia-pro-soft, sans-serif;
 $font-stack-student: rig-solid-bold-fill, sans-serif;
-$primary-color: #ff5470;
-$secondary-color: #fde24f;
-$tertiary-color: #47A8BD;
-$dark-color: #1a1a1a;
+$primary-color: #C2EFB3;
+$secondary-color: #FCB07E;
+$tertiary-color: #7776BC;
+$dark-color: #262322;
 $light-color: white;
 * {
   box-sizing: border-box;
@@ -415,7 +415,7 @@ h1, h2, h3, h4, h5 {
 h1 {
   font-family: $font-stack-bighead;
   margin-top: 0;
-  font-size: 20vw;
+  font-size: 18vw;
   line-height: .9em;
   padding: 10px 0 0 0;
   margin-left: -6px;
@@ -701,7 +701,7 @@ hr {
 }
 @media only screen and (min-width: 630px) {
   h1 {
-    font-size: 16vw;
+    font-size: 14vw;
     line-height: .9em;
     padding: 20px 0 0 0;
     margin-left: -6px;
@@ -748,7 +748,7 @@ hr {
     width: 75%;
   }
   h1 {
-    font-size: 16vw;
+    font-size: 14vw;
     line-height: .9em;
     padding: 20px 0 0 0;
     margin-left: -9px;
@@ -812,7 +812,7 @@ hr {
       grid-column: span 3;
     }
     h1 {
-      font-size: 12vw;
+      font-size: 10vw;
       line-height: .9em;
       padding: 20px 0 0 0;
       margin-left: -7px;
@@ -860,7 +860,7 @@ hr {
       grid-column: span 4;
     }
     h1 {
-      font-size: 14vw;
+      font-size: 12vw;
       line-height: .9em;
       padding: 20px 0 0 0;
       margin-left: -10px;
